@@ -1,6 +1,15 @@
 # Exercise Technical - Data Analysis
 
-This repository contains a technical exercise that includes a hypothetical SQL query and an analysis of a dataset. The dataset includes the following variables: member_id, diabetes_type, gender, date_utc, bg_checks, avg_bg_value, count_hyper_reading, count_hypo_reading.
+This repository contains a technical exercise that includes a hypothetical SQL query and an analysis of a dataset. The dataset includes the following variables:  
+
+    member_id, 
+    diabetes_type, 
+    gender, 
+    date_utc, 
+    bg_checks, 
+    avg_bg_value, 
+    count_hyper_reading, 
+    count_hypo_reading.
 
 ## Python Version
 This project was developed using Python 3.9.15. Please make sure you have the appropriate version installed in your environment.
